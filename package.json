@@ -1,0 +1,25 @@
+{
+    "name": "pat-quaivelock",
+    "version": "0.0.1",
+    "description": "A pattern that locks",
+    "keywords": [
+        "patternslib",
+        "pattern"
+    ],
+    "author": {
+        "name": "Plone Intranet Team",
+        "email": "ploneintranet-dev@groups.io"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:ploneintranet/pat-quaivelock.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "bower": "latest",
+        "requirejs": "",
+        "underscore": "",
+        "http-server": ""
+    },
+    "license": "BSD-3-Clause"
+}
